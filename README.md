@@ -1,7 +1,5 @@
-# 2025.9-2025.12_BAMBOO
-Stock and News project, Data Analysis study
+# 2025.9-2025.12_BAMBOO DnA (Data aNd Analysis study)
 
-# 뉴스의 긍정/부정 성향과 주가 등락률의 상관성 분석 및 제언
 
 ### **Project Summary**
 
@@ -37,7 +35,3 @@ Stock and News project, Data Analysis study
     
 
 ---
-
-[뉴스의 긍정-부정 성향과 주가 등락률의 상관성 분석 및 제언.pdf](%EB%89%B4%EC%8A%A4%EC%9D%98_%EA%B8%8D%EC%A0%95-%EB%B6%80%EC%A0%95_%EC%84%B1%ED%96%A5%EA%B3%BC_%EC%A3%BC%EA%B0%80_%EB%93%B1%EB%9D%BD%EB%A5%A0%EC%9D%98_%EC%83%81%EA%B4%80%EC%84%B1_%EB%B6%84%EC%84%9D_%EB%B0%8F_%EC%A0%9C%EC%96%B8.pdf)
-
-[뉴스의 긍정-부정 성향과 주가 등락률의 상관성 분석 및 제언.pdf](%EB%89%B4%EC%8A%A4%EC%9D%98_%EA%B8%8D%EC%A0%95-%EB%B6%80%EC%A0%95_%EC%84%B1%ED%96%A5%EA%B3%BC_%EC%A3%BC%EA%B0%80_%EB%93%B1%EB%9D%BD%EB%A5%A0%EC%9D%98_%EC%83%81%EA%B4%80%EC%84%B1_%EB%B6%84%EC%84%9D_%EB%B0%8F_%EC%A0%9C%EC%96%B8%201.pdf)
